@@ -18,7 +18,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
+cd existng_repo
 git remote add origin https://code.stanford.edu/andy0207/ee271.git
 git branch -M main
 git push -uf origin main
